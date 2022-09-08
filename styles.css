@@ -1,3 +1,10 @@
-h1 {
-    color: red;
+.main-brand {
+    font-size: 60px;
+    text-align: center;
+    font-weight: normal;
+    font-family: cursive;
+    margin-top: 60px; 
+    margin-bottom: 60px;
 } 
+
+ /*Can also do margin top and bottom like: 60px 0; of like : 60px 0 60px 0 */
