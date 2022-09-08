@@ -8,3 +8,25 @@
 } 
 
  /*Can also do margin top and bottom like: 60px 0; of like : 60px 0 60px 0 */
+
+ .story-title {
+    font-weight: normal;
+    font-style: italic;
+    font-size: 30px;
+    margin: 15px 0;
+    text-align: center;
+ }
+
+ .story-text {
+    line-height: 1.5;
+ }
+
+ .row {
+    display: flex;
+    align-items: stretch;
+ }
+
+ .story {
+     border: 1px solid #333;
+     padding: 5px
+ }
